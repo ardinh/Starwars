@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="name">Name : </string>
+    <string name="model">Model : </string>
+    <string name="manufacture">Manufacture : </string>
+    <string name="cost">Cost : </string>
+    <string name="capacity">Capacity : </string>
+</resources>
